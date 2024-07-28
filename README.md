@@ -10,7 +10,7 @@ This ReadMe contains summary findings of the data analysis completed for Machine
 6. The acceptance rate for drivers who go to bars more than once a month and are under the age of 30 is 72%, much higher than average rate
 7. The acceptance rate for drivers who go to cheap restaurants more than 4 times a month and income is less than 50K is only 41%, same as average rate
 
-**For Coffee Coupons, my hypothesis is that the likelihood of accepting coffee coupons is strongly dependent on drivers dricing at 10AM, followed by 2PM. It is also dependent on coupon expiration of 1 day and drivers driving to no urgent place. This is based on the below findings:**
+**For Coffee Coupons, my hypothesis is that the likelihood of accepting coffee coupons is strongly dependent on drivers driving at 10AM, followed by 2PM. It is also dependent on coupon expiration of 1 day and drivers driving to no urgent place. This is based on the below findings:**
 
 1. The acceptance rate for drivers driving at 10AM is 64% and 2PM is 55%, significantly higher than overall average --> Time is a great predictor
 2. The acceptance rate for coupons expiring in 1 day is 58%, significantly higher than overall average --> Expiration is a great predictor
